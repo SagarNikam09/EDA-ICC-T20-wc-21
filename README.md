@@ -1,7 +1,3 @@
-Sure! Here is a template for a README file for the Jupyter Notebook project "ICC T20 WC 2021 EDA using python". You can customize it further based on specific details from your project.
-
----
-
 # ICC T20 World Cup 2021 - Exploratory Data Analysis (EDA) Using Python
 
 ## Overview
