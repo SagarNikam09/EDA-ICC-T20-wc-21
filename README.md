@@ -81,6 +81,4 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
 
-Feel free to add any additional information or sections that are relevant to your project.
